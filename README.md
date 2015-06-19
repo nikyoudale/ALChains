@@ -32,7 +32,7 @@ ALChains(view)
   .apply();
 ```
 
-### View completely fills another view
+### View completely fills superview
 ```
 ALChains(view)
   .fill()
