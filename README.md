@@ -59,5 +59,5 @@ ALChains(view)
 ```
 
 ## How it works
-Nothing more a nice way of building and adding layout constraints to a view. It's pretty simple, might not
+Nothing more than a nice way of building and adding layout constraints to a view. It's pretty simple, might not
 cover all use cases, but i've found it pretty useful in my own projects.
